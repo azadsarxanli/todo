@@ -15,7 +15,7 @@ code {
 * {
   outline: 0;
 }
-
+/* 
 .App {
   font-family: sans-serif;
   display: flex;
@@ -25,10 +25,10 @@ code {
 }
 .error {
   /* background-color: rgba(247, 26, 26, 0.808); */
-  /* color: rgba(255, 255, 255, 0.781); */
+/* color: rgba(255, 255, 255, 0.781); */
 
-  background-color: palevioletred;
-  color: white;
+/* background-color: palevioletred; */
+/* color: white;
   border: 1px solid #e4e6e8;
 
   min-width: 50%;
@@ -37,8 +37,8 @@ code {
   padding: 0.5rem 1rem;
   border-radius: 4px;
   text-align: center;
-}
-.error:hover {
+} */
+/* .error:hover {
   background-color: rgb(236, 112, 147);
 }
 input {
@@ -74,5 +74,5 @@ button:hover {
   color: white;
 }
 p {
-  text-align: center;
-}
+  text-align: center; */
+/* } */
